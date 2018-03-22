@@ -1,3 +1,8 @@
 .col-md-4 {
   background-color: red;
 }
+.jumbotron {
+  /*background-image: url("one.jpeg");
+  background-repeat: no-repeat;
+     background-size: 3000px 300px;*/
+}
